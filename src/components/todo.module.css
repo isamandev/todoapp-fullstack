@@ -1,0 +1,18 @@
+.button,
+.input {
+  padding: 5px 10px;
+}
+.input {
+  border: 2px solid black;
+  margin-right: 5px;
+}
+.list {
+  padding: 0;
+  width: 250px;
+  margin-inline: auto;
+}
+.list-item {
+  list-style: none;
+  margin-bottom: 15px;
+  border-right: 2px solid black;
+}
